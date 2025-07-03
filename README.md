@@ -1,5 +1,5 @@
-# Python Programming (CS 307 Jacksonville University) - Course Work & Projects
-
+# Python Programming Coursework & Projects
+This repo contains python coding assignments and projects completed in an undergraduate python programming course.
 
 ## Repo Structure
 ├── README.md # Overview of the project  
