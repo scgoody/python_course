@@ -1,7 +1,8 @@
-# Python Programming Coursework & Projects
+# Python Programming Projects
 This repo contains python coding assignments and projects completed in an undergraduate python programming course.
 
 ## Repo Structure
+python_projects/  
 ├── README.md # Overview of the project  
 ├── coding_assignments/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# bi-weekly Python homework assignments  
 │ ├── Goodyear_assignment1.py  
@@ -50,8 +51,8 @@ Built foundational programming skills in parallel with lectures exploring:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/scgoody/python_course.git
-   cd python_course
+   git clone https://github.com/scgoody/python_projects.git
+   cd python_projects
 2. For `.py` files:
     ```bash
     python filename.py
